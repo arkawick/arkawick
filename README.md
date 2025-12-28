@@ -2,27 +2,7 @@
 
 I'm **Arkajyoti Bhattacharyay**, a Full Stack Software Engineer & DevOps Engineer passionate about building scalable applications and automating everything!
 
-```python
-class Arkajyoti:
-    def __init__(self):
-        self.username = "arkawick"
-        self.role = "Full Stack Software Engineer | DevOps Engineer"
-        self.location = "West Bengal, India"
-        self.company = "L&T Technology Services"
-        self.education = "B.Tech CSE | CGPA: 9.36/10"
-        self.currently_learning = ["GenAI", "RAG Systems", "Cloud Architecture"]
-
-    def get_tech_stack(self):
-        return {
-            "languages": ["Python", "Java", "C++", "Shell Script", "Groovy"],
-            "backend": ["Spring Boot", "Django", "Flask", "FastAPI"],
-            "frontend": ["React.js", "HTML", "CSS", "JavaScript"],
-            "databases": ["MySQL", "MongoDB", "PostgreSQL", "CosmosDB"],
-            "devops": ["Jenkins", "Docker", "Terraform", "GitHub Actions"],
-            "cloud": ["AWS", "Azure"],
-            "ai_ml": ["OpenAI", "LangChain", "HuggingFace", "TensorFlow"]
-        }
-```
+📍 West Bengal, India | 💼 L&T Technology Services | 🎓 B.Tech CSE (CGPA: 9.36/10)
 
 ## 🚀 What I Do
 
