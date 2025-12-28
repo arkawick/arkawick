@@ -58,7 +58,7 @@ AI-powered automated license compliance system using ORT with advanced policy en
 - **Tech:** Python, GitHub Actions, ScanCode, GenAI
 - **Features:** Multi-source license detection, AI conflict resolution, automated compliance scoring
 
-### 🧠 CARIAD Data Driven Development - GenAI MVP
+### 🧠 GenAI Ticket Triage System
 Intelligent triage system for detecting duplicate tickets using Graph RAG
 - **Tech:** Python, Azure Databricks, CosmosDB, Streamlit, Neo4j
 - **Focus:** Data analysis, automated impact analysis, ticket routing optimization
